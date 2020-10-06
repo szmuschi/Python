@@ -4,6 +4,7 @@
 # oba_      11 16 15 6
 # htyp      10 9  8  7
 
+
 def spiral_print(a):
     n = len(a) - 1
     result = ''

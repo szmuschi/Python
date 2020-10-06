@@ -1,5 +1,6 @@
 # Write a function that validates if a number is a palindrome.
 
+
 def is_palindrome():
     print('Function that validates if a number is a palindrome')
     nr = int(input("Enter number: "))

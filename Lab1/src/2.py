@@ -1,5 +1,6 @@
 # Write a script that calculates how many vowels are in a string.
 
+
 def vowel_counter():
     print('Function that count number of vowels in the introduced string')
     string = input("Enter string: ")

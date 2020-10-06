@@ -1,5 +1,6 @@
 # Write a script that receives two strings and prints the number of occurrences of the first string in the second.
 
+
 def strstr():
     print('Function that receives two strings and counts the number of occurrences of the first string in the second')
     str1 = input("Enter first string: ")
